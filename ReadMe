@@ -1,0 +1,16 @@
+# Module 9A - Build Your First React Component
+
+## Description
+This is a React app created using Vite that renders a UserProfile component. The component includes my name, bio, and monkey emojii styled with inline CSS.
+
+## What I Learned
+- How to set up a React project using Vite
+- How to write and structure a functional React component
+- How to use JSX and inline styles
+- How to render a component in App.jsx
+
+## Challenges
+I had some trouble folowing ther step by step guide in the class module - the portion "follow the prompts" was nt appearing in my terminal, so I though I had missed a step. But, it turned out that the previous step had functionally accomplished the same task so that step was not necessary. I'm not entirely sure why.
+
+## Screenshot
+Uploaded this into the class Canvas.
